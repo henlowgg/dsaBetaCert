@@ -38,3 +38,10 @@ Give your #text element the following text:
 Welcome to Dragon Repeller. You must defeat the dragon that is preventing people from leaving the town. You are in the town square. Where do you want to go? Use the buttons above.
 
 -----------
+
+Step 10
+Give your #game a maximum width of 500px and a maximum height of 400px. Set the background-color to #ffffff and the color to #ffffff.
+
+Use margins to center it by setting the top margin to 30px, bottom margin to 0px, and the left and right margin to auto.
+
+Finally, give it 10px of padding on all four sides.
